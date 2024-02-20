@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on backend and frontend projects.
 - 📫 How to reach me: ferbrasan15@gmail.com 
 - 😄 Pronouns🏄
-- ⚡ Fun fact: playing with many skills all most of the time.
+- ⚡ Fun fact: playing with many skills most of the all time.
 
 <!---
 Fbrcode55/Fbrcode55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
